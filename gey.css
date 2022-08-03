@@ -1,0 +1,16 @@
+body {
+  background-image: url(./rap.jpg_large);
+}
+
+.au{
+  display: flex;
+  justify-content: center;
+  margin-top: 350px;
+}
+.h1{
+  display: flex;
+  justify-content: center;
+  margin-top: -180px;
+  margin-left: 500px;
+  color: red;
+}
